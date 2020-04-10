@@ -10,10 +10,14 @@ index in our probability distribution represents which of the digits the input l
 
 # TO RUN
 Make sure you have Tensorflow installed.  If you don't, type:
-''' pip3 install tensorflow
+```
+pip3 install tensorflow
+```
 
 Then, simply clone this repository, and then run the program:
-''' python3 ts_quickstart.py
+```
+python3 ts_quickstart.py
+```
 
 If you do not have python installed, I'm no python tamer, so I'm not sure if this is the right place
 for a python installation tutorial!  
